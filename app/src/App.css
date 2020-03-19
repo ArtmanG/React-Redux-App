@@ -30,7 +30,10 @@
 
 .Info-Card {
   background-color: white;
+  width: 50%;
+  margin: 0 auto;
   opacity: 80%;
+  border-radius: 10px;
 }
 
 .Info {
